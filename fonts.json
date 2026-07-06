@@ -1,13 +1,14 @@
 {
-  "name": "내 폰트",
+  "spec": 1,
+  "name": "My Fonts",
   "fonts": [
     {
-      "name": "아기사랑체",
+      "name": "AgiSarang",
       "main": "NanumHandwritingAgiSarang",
       "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EA%B8%B0%EC%82%AC%EB%9E%91%EC%B2%B4.ttf"
     },
     {
-      "name": "Children Handwritten",
+      "name": "ChildrenHandwritten",
       "main": "ChildrenHandwritten",
       "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/Children%20Handwritten.ttf"
     }
