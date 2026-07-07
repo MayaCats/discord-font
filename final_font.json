@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    {
+      "name": "Children Handwritten",
+      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/Children.ttf"
+    },
+    {
+      "name": "아기사랑체",
+      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/AgiSarang.ttf"
+    }
+  ]
+}
