@@ -1,16 +1,4 @@
 {
-  "spec": 1,
-  "name": "My Fonts",
-  "fonts": [
-    {
-      "name": "AgiSarang",
-      "main": "AgiSarang",
-      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/AgiSarang.ttf"
-    },
-    {
-      "name": "Children",
-      "main": "Children",
-      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/Children.ttf"
-    }
-  ]
+  "main": "https://raw.githubusercontent.com/MayaCats/discord-font/main/AgiSarang.ttf",
+  "bold": "https://raw.githubusercontent.com/MayaCats/discord-font/main/Children.ttf"
 }
