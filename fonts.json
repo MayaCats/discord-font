@@ -1,14 +1,12 @@
-@font-face {
-  font-family: 'MyEnglishFont';
-  src: url('https://raw.githubusercontent.com/MayaCats/discord-font/main/Children.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'MyKoreanFont';
-  src: url('https://raw.githubusercontent.com/MayaCats/discord-font/main/AgiSarang.ttf') format('truetype');
-}
-
-/* 디스코드 앱 전체에 영어 -> 한국어 순서로 폰트 적용 */
-div, span, p, a, input, textarea, button, * {
-  font-family: 'MyEnglishFont', 'MyKoreanFont', sans-serif !important;
+{
+  "fonts": [
+    {
+      "name": "Children Handwritten",
+      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/Children.ttf"
+    },
+    {
+      "name": "아기사랑체",
+      "url": "https://raw.githubusercontent.com/MayaCats/discord-font/main/AgiSarang.ttf"
+    }
+  ]
 }
